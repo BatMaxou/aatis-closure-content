@@ -1,0 +1,19 @@
+{
+    "name": "aatis/closure-content",
+    "type": "library",
+    "description": "Helper to retrieve closure content",
+    "authors": [
+        {
+            "name": "Maxime Batista",
+            "email": "maximebatista.lycee@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Aatis\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=8.2"
+    }
+}
